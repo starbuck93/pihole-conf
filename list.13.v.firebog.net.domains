@@ -1,0 +1,49 @@
+# Personal Blacklist by WaLLy3K
+# Licencing: http://www.wtfpl.net
+
+# Anything added to this list has been manually verified
+# and is not a part of any other list found at https://wally3k.github.io
+# Whitelisting: Contact me via any means found at https://firebog.net
+
+# Ads
+quantummetric.com # Cydia/Bigboss
+cydia.saurik.com.cdngc.net # Cydia/Bigboss
+i-technet.sec.s-msft.com # Technet
+production-ultimate-assets.ratecity.com.au # NewsCorp
+saber.srvcs.tumblr.com # Tumblr
+fd-fp3.wg1.b.yahoo.com # Tumblr
+usc.adserver.snapads.com # Snapchat
+ad-cdn.technoratimedia.com # LA Times
+content.synapsys.us # LA Times
+yt.moatads.com
+us.intellitxt.com 
+evolveplatform.net
+dashboard.evolveplatform.net
+googleadapis.l.google.com
+www-googletagmanager.l.google.com
+gstaticadssl.l.google.com
+
+# Tracking & Telemetry
+ls.srvcs.tumblr.com # Tumblr
+deliver.oztam.com.au # ABC iView
+collector.abc-host.net.au # ABC iView
+app-analytics.snapchat.com # Snapchat
+gfwsl.geforce.com # Nvidia
+gfe.geforce.com # Nvidia
+telemetry.nvidia.com # Nvidia
+gfe.nvidia.com # Nvidia
+telemetry.gfe.nvidia.com # Nvidia
+events.gfe.nvidia.com # Nvidia
+telemetry.malwarebytes.com # Malwarebytes
+tags.tiqcdn.com # Ancestery
+invisioncloudstats.com
+api.branch.io
+www.usekahuna.com
+gate.hockeyapp.net
+
+# Malware
+aloseks.org # Phishing
+shortyz.co #Phishing
+campingforthefunofit.com # Phishing
+cameforcameand33212.com # OSXMokes 
+jikenick12and67.com # OSXMokes

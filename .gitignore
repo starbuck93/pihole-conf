@@ -1,0 +1,5 @@
+install.log 
+logrotate 
+pihole-FTL.db 
+setupVars.conf 
+setupVars.conf.update.bak
